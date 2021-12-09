@@ -24,4 +24,5 @@ p > a:first-of-type {
 }
 body {
 	overflow: hidden;
+	backgounrd-color: black;
 }
